@@ -39,6 +39,7 @@ Agile methodology - Iterative and incremental, with multiple cycles (sprints).
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer
 - Writing Code: Developing software by translating requirements and design specifications into functional code.
 - Designing Software: Collaborating with the team to design the architecture and components of the software.
