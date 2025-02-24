@@ -39,19 +39,21 @@ Agile methodology - Iterative and incremental, with multiple cycles (sprints).
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer -
+Software Developer
 - Writing Code: Developing software by translating requirements and design specifications into functional code.
 - Designing Software: Collaborating with the team to design the architecture and components of the software.
 - Debugging and Troubleshooting: Identifying and fixing bugs or issues in the code during the development phase or reported after release.
 - Testing Code: Writing unit tests and performing initial tests to ensure that the code behaves as expected.
 - Collaboration: Working closely with QA Engineers, Project Managers, and other developers to understand requirements and address challenges throughout the development process.
 - Documentation: Documenting code and technical specifications to ensure that the software can be maintained and understood by others in the future.
+
 Quality Assurance Engineer 
 - Collaborate with stakeholders to understand and clarify software requirement.
 - Create development standards and procedures for the programmers to follow
 - Confirm that the software meets the requirement before deployment. 
 - Analyse the product to identify bugs and suggest changes to make them more efficient. 
 - Develop and execute automation scripts using open source tools.
+  
 Project Manager
 - Project Planning
 - Task Scheduling and Resource Management
